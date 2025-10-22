@@ -1,0 +1,4 @@
+Example IOS app demonstrating the Amex tap to activate functionality.
+
+Amex achieves tap to activate by cloning their payment application under 
+a different Application ID on the card.
